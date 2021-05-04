@@ -9,7 +9,7 @@
 
 🚀 **Skills:**
 
-## <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="26"> FRONT-END  
+## FRONT-END  
 
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
@@ -42,7 +42,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="26"> BACK-END  
+## BACK-END  
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
@@ -66,7 +66,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="26"> DATABASE 
+## DATABASE 
 
 <a href="#">
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
@@ -77,7 +77,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/YPcK9TTV2CuCJp7ki6/giphy.gif" width="26"> TOOLS 
+## TOOLS 
 
 
 <a href="#">
