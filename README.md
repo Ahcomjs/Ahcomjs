@@ -9,9 +9,6 @@
 
 🚀 **Skills:**
 
-## FRONT-END  
-
-
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
 </a>
@@ -42,8 +39,6 @@
 </a>
 
 
-## BACK-END  
-
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
 </a>
@@ -56,7 +51,6 @@
     <img alt="ASP.NET CORE" src="https://img.shields.io/badge/ASP.NET%20Core%20-%23025E8C.svg?logo=.net&logoColor=white">
 </a>
 
-
 <a href="#">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23025E8C.svg?logo=php&logoColor=white">
 </a>
@@ -65,9 +59,6 @@
     <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-%23E34F26.svg?logo=laravel&logoColor=white">
 </a>
 
-
-## DATABASE 
-
 <a href="#">
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </a>
@@ -75,10 +66,6 @@
 <a href="#">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white">
 </a>
-
-
-## TOOLS 
-
 
 <a href="#">
     <img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23E34F26.svg?logo=postman&logoColor=white">
