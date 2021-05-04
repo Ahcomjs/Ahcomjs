@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software and Video Games
 - 🌱 I’m currently learning advance nodejs
 
-Connect with me on 
+Connect with me on <br/>
 <a href="https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/">
     <img alt="Carlos De La Cruz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
