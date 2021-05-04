@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Carlos De La Cruz Meregildo
+## Hi, I'm Carlos  :computer:
+
 - 🔭 I’m currently working at PGR
 - 👀 I’m interested in Software and Video Games
 - 🌱 I’m currently learning advance nodejs
