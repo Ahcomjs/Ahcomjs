@@ -9,6 +9,7 @@
 
 🚀 **Skills:**
 
+## <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="26"> FRONT-END  
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
