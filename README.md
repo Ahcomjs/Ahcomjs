@@ -1,7 +1,7 @@
 ## Hi, I'm Carlos  :computer:
 
 - 🔭 I’m currently working at PGR
-- 👀 I’m interested in Software and Video Games
+- 👀 I’m interested in software and video Games
 - 🌱 I’m currently learning advance nodejs
 
 Connect with me on <br/>
