@@ -1,10 +1,8 @@
 ## Hi, I'm Carlos  :computer: 
 
-And I love -> 
-
-<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-</a>
+And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
+                 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+               </a>
 
 - 🔭 I’m currently working at PGR
 - 👀 I’m interested in software and video Games
