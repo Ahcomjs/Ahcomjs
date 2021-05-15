@@ -49,16 +49,9 @@ Connect with me on <br/>
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
 </a>
 
-<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Acsharp+fork%3Atrue">
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
-</a>
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Acsharp+fork%3Atrue">
     <img alt="ASP.NET CORE" src="https://img.shields.io/badge/ASP.NET%20Core%20-%23025E8C.svg?logo=.net&logoColor=white">
-</a>
-
-<a href="#">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23025E8C.svg?logo=php&logoColor=white">
 </a>
 
 <a href="#">
