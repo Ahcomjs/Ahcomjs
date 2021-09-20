@@ -4,7 +4,7 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
                  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
                </a>
 
-- 🔭 I’m currently working at PGR
+- 🔭 I’m currently working at ...
 - 👀 I’m interested in software and video games
 - 🌱 I’m currently learning advance UI/UX
 
