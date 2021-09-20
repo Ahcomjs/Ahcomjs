@@ -6,7 +6,7 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 
 - 🔭 I’m currently working at ...
 - 👀 I’m interested in software and video games
-- 🌱 I’m currently learning advance UI/UX
+
 
 Connect with me on <br/>
 <a href="https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/">
