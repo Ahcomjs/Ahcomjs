@@ -7,12 +7,6 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 - 🔭 I’m currently working at ...
 - 👀 I’m interested in software and video games
 
-
-Connect with me on <br/>
-<a href="https://www.linkedin.com/in/carlos-de-la-cruz-meregildo-5673b1141/">
-    <img alt="Carlos De La Cruz | LinkedIn" src="https://badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 🚀 **Skills:**
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
