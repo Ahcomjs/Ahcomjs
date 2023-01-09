@@ -27,10 +27,6 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 </a>
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Avue+fork%3Atrue">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=%234FC08D&style=for-the-badge">
-</a>
-
-<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Avue+fork%3Atrue">
     <img alt="React.js" src="https://img.shields.io/badge/React%20-%23007ACC.svg?logo=react&logoColor=white&style=for-the-badge">
 </a>
 
