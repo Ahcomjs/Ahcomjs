@@ -10,11 +10,11 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 🚀 **Skills:**
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
 </a>
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS-%23007ACC.svg?logo=css3&logoColor=white&style=for-the-badge">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23007ACC.svg?logo=css3&logoColor=white&style=for-the-badge">
 </a>
 
 
@@ -38,6 +38,11 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ajavascript+fork%3Atrue">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
 </a>
+
+<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3AtypeScript+fork%3Atrue">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%23007ACC.svg?logo=Python&logoColor=white&style=for-the-badge">
+</a>
+
 
 
 <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Acsharp+fork%3Atrue">
@@ -67,6 +72,14 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
 
 <a href="#">
     <img alt="NPM" src="https://img.shields.io/badge/Npm-%23E34F26.svg?logo=npm&logoColor=white&style=for-the-badge">
+</a>
+
+<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
+    <img alt="YARN" src="https://img.shields.io/badge/yarn%20-%23007ACC.svg?logo=Yarn&logoColor=white&style=for-the-badge">
+</a>
+
+<a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+language%3Ahtml+fork%3Atrue">
+    <img alt="DOCKER" src="https://img.shields.io/badge/Docker-%23007ACC.svg?logo=docker&logoColor=white&style=for-the-badge">
 </a>
 
 
