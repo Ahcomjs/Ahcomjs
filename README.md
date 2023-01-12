@@ -4,8 +4,8 @@ And I love ->  <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+la
                  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" style="appveyor">
                </a>
 
-- 🔭 I’m currently working at ...
-- 👀 I’m interested in software and video games
+- 🔭 I’m currently working at Python
+- 👀 I’m interested in Software and Video Games
 
 
 
