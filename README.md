@@ -4,7 +4,7 @@ And I ❤️    <a href="https://github.com/search?q=user%3AJadhielv+is%3Arepo+l
                  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" style="appveyor">
                </a>
 
-- 🔭 I’m currently working at Python
+- 🔭 I’m currently working... 
 - 👀 I’m interested in Software and Video Games
 
 
