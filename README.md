@@ -13,7 +13,7 @@
 # Some technologies I have worked with
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,nodejs,typescript,react,redux,angular,vue,jest,dotnet,npm,azure,docker,kubernetes,mysql,babel,prisma,bitbucket,bootstrap,cs,eclipse,express,git,github,gitlab,graphql,jquery,vite,webpack,webstorm,yarn)
 
-### Languages ​​and tools in order according to images:
+### Languages ​​and tools according to images:
 
 |     --------    |  --------         |  --------                   | --------         | --------        |
 | --------------- | ------------      | -----------                 | ------------     | ------------    |
