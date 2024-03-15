@@ -7,7 +7,7 @@
   
 - 👀 I’m interested in Web and Mobile Development.
   
-- 📫 How to reach me [cmeregildo](https://cmeregildo.com/)
+- 📫 How to reach me 
 
 
 ### Some technologies I have worked with
