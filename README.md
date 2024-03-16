@@ -7,7 +7,7 @@
   
 - 👀 I’m interested in Web and Mobile Development.
   
-- 📫 How to reach me 
+- 📫 How to reach me <Working on it>
 
 
 ### Some technologies I have worked with
