@@ -8,7 +8,7 @@
 - 👀 I’m interested in Web and Mobile Development.
   
 ### Some technologies and tools  I have worked with
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,gradle,hibernate,nodejs,typescript,react,redux,jest,dotnet,npm,azure,aws,docker,kubernetes,mysql,postgresql,babel,prisma,bitbucket,bootstrap,cs,eclipse,express,nest,git,github,gitlab,graphql,jquery,vite,webpack,webstorm,yarn)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,typescript,react,redux,jest,dotnet,npm,azure,aws,docker,kubernetes,mysql,postgresql,babel,prisma,bitbucket,bootstrap,cs,eclipse,express,nest,git,github,gitlab,graphql,jquery,vite,webpack,webstorm,yarn)
 
 
 
