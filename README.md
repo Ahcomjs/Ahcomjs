@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Carlos </h1>
-<h3 align="center"> "Senior Software Developer working remotely. :computer: </h3>
+<h3 align="center"> Senior Software Developer working remotely. :computer: </h3>
 
 ## 🛠️ Tech Stack
 
