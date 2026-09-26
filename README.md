@@ -1,10 +1,10 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B%2C+I'm+Carlos;Senior+Software+Developer;Node.js+%C2%B7+React+%C2%B7+TypeScript;Building+scalable+things%2C+remotely+%F0%9F%92%BB" alt="Typing intro" />
-https://cmeregildo.com/
+
 <p>
   <b>Senior Software Developer</b> · 8+ years building robust, scalable enterprise applications<br/>
-  Fintech · E-commerce · Healthcare · Public sector — 📍 Santo Domingo, DR · Remote
+  Fintech · E-commerce · Healthcare · Public sector etc... - 📍 Santo Domingo, DR - Remote
 </p>
 
 <p>
@@ -88,4 +88,3 @@ https://cmeregildo.com/
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
----
