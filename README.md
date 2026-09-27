@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1631,55:1E3A8A,100:3B82F6&height=170&section=header&text=Carlos%20De%20La%20Cruz&fontSize=44&fontColor=F1F5F9&fontAlign=50&fontAlignY=42&desc=Senior%20Software%20Developer&descSize=18&descAlign=50&descAlignY=68&animation=fadeIn" width="100%" alt="Carlos De La Cruz - Senior Software Developer" />
+
 
 
 
@@ -15,18 +15,6 @@
 </div>
 
 <!-- ===================== AT A GLANCE ===================== -->
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200"><h2>8+</h2><sub>YEARS IN PRODUCTION</sub></td>
-    <td align="center" width="200"><h2>7+</h2><sub>INDUSTRIES SERVED</sub></td>
-    <td align="center" width="200"><h2>Full-stack</h2><sub>SCHEMA → API → UI → CLOUD</sub></td>
-    <td align="center" width="200"><h2>100%</h2><sub>REMOTE · SANTO DOMINGO, DR</sub></td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
